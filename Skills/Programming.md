@@ -36,21 +36,21 @@
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects: 🖐️ used
-  - closure: 🎓 known
-  - partial application: 🎓 known
-  - curry: 🎓 known
+  - closure: 🖐️ used
+  - partial application: 🖐️ used
+  - curry: 🖐️ used
   - higher order: 🖐️ used
   - recursion: 🖐️ used
   - callback: 🖐️ used
   - listener: 🖐️ used
-  - compose: 🎓 known
+  - compose: 🖐️ used
   - pipe: 🖐️ used
   - memoize: 🖐️ used
   - wrapper: 🖐️ used
-  - functor: 👂 heard
+  - functor: 🎓 known
   - monad: 👂 heard
   - monoid: 👂 heard
-  - generator: 👂 heard
+  - generator: 🖐️ used
   - coroutine: 👂 heard
 - Data structures
   - array: 🖐️ used
@@ -62,26 +62,26 @@
   - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🖐️ used
-  - hash table: 👂 heard
-  - linked list: 🖐️ used
+  - hash table: 🖐️ used
+  - linked list: 🚀 constructed
   - doubly list: 🎓 known
-  - unrolled list: 👂 heard
-  - circular list: 🎓 known
-  - queue: 🎓 known
-  - stack: 🎓 known
-  - deque: 👂 heard
+  - unrolled list: 🎓 known
+  - circular list: 🚀 constructed
+  - queue: 🖐️ used
+  - stack: 🖐️ used
+  - deque: 🎓 known
   - tree: 🎓 known
   - graph: 🎓 known
-  - iterator: 🎓 known
+  - iterator: 🖐️ used
   - mutable state: 🖐️ used
-  - immutable state: 🎓 known
+  - immutable state: 🖐️ used
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
   - transpiler: 🖐️ used
   - linter: 🖐️ used
-  - polyfill: 🎓 known
+  - polyfill: 🖐️ used
   - debugger: 🖐️ used
   - garbage collection: 🖐️ used
   - refactoring: 🖐️ used
@@ -91,7 +91,7 @@
   - algorithm: 🖐️ used
   - magic numbers: 🖐️ used
   - hardcode: 🖐️ used
-  - complexity: 🎓 known
+  - complexity: 🖐️ used
   - decomposition: 🖐️ used
   - spaghetti: 🖐️ used
   - silver bullet: 🖐️ used

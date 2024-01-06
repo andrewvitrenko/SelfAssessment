@@ -1,8 +1,8 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
-  - Imperative programming: 🎓 known
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
   - Structured programming: 🖐️ used
   - Non-structured programming: 🖐️ used
   - Functional programming: 🖐️ used
@@ -11,11 +11,11 @@
   - Object-based programming: 🖐️ used
   - Generic programming: 🖐️ used
   - Concurrent computing: 👂 heard
-  - Asyncronous programming: 🎓 known
+  - Asyncronous programming: 🖐️ used
   - Parallel programming: 🎓 known
-  - Reactive programming: 🎓 known
+  - Reactive programming: 🖐️ used
   - FRP (Functional-reactive): 👂 heard
-  - Automata-based programming: 👂 heard
+  - Automata-based programming: 🎓 known
   - Domain-specific languages: 🎓 known
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming: 👂 heard
@@ -43,22 +43,22 @@
   - Reflection: 👂 heard
 - Patterns
   - Singleton: 🎓 known
-  - Factory Method: 🎓 known
+  - Factory Method: 🖐️ used
   - Abstract Factory: 👂 heard
   - Adapter: 🖐️ used
-  - Observer: 👂 heard
+  - Observer: 🖐️ used
   - Strategy: 🖐️ used
   - Facade: 🖐️ used
-  - Proxy: 👂 heard
-  - Chain of Responsibility: 🎓 known
-  - Command: 👂 heard
-  - Iterator: 👂 heard
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🖐️ used
+  - Command: 🎓 known
+  - Iterator: 🎓 known
   - State: 🖐️ used
-  - Bridge: 🎓 known
-  - Builder: 👂 heard
+  - Bridge: 🖐️ used
+  - Builder: 🖐️ used
   - Prototype: 🎓 known
   - Composite: 🎓 known
-  - Decorator: 🎓 known
+  - Decorator: 🖐️ used
   - Flyweight: 👂 heard
   - Mediator: 👂 heard
   - Memento: 👂 heard
