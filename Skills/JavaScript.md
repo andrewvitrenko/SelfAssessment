@@ -5,30 +5,30 @@
   - this: 🖐️ used
   - arrow function: 🖐️ used
   - async function: 🖐️ used
-  - call: 🎓 known
+  - call: 🖐️ used
   - bind: 🖐️ used
-  - apply: 🎓 known
+  - apply: 🖐️ used
   - instanceof: 🖐️ used
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
   - typeof: 🖐️ used
   - destructuring: 🖐️ used
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
-  - chaining: 👂 heard
-  - optional chaining: 👂 heard
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
+  - chaining: 🖐️ used
+  - optional chaining: 🖐️ used
   - IIFE: 🖐️ used
   - global: 🖐️ used
-  - globalThis: 👂 heard
+  - globalThis: 🎓 known
   - window: 🖐️ used
-  - getters and setters: 🎓 known
-  - __proto__: 🎓 known
-  - prototype: 🎓 known
+  - getters and setters: 🖐️ used
+  - __proto__: 🖐️ used
+  - prototype: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
-  - bitwise operators: 👂 heard
+  - bitwise operators: 🖐️ used
   - ternary operator: 🖐️ used
   - void: 🖐️ used
   - yield: 🖐️ used
@@ -38,49 +38,49 @@
   - delete: 🖐️ used
   - in: 🖐️ used
   - super: 🖐️ used
-  - Symbol: 🎓 known
-  - Reflect: 👂 heard
+  - Symbol: 🖐️ used
+  - Reflect: 🎓 known
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
-  - do..while: 🎓 known
+  - do..while: 🖐️ used
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for await: 🎓 known
+  - for await: 🖐️ used
   - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
   - import: 🖐️ used
   - export: 🖐️ used
-  - label: 👂 heard
+  - label: 🎓 known
   - try..catch: 🖐️ used
   - switch: 🖐️ used
   - class: 🖐️ used
   - new Error: 🖐️ used
-  - with: 👂 heard
+  - with: 🎓 known
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🖐️ used
   - return: 🖐️ used
   - default parameters: 🖐️ used
-  - functional object: 👂 heard
+  - functional object: 🎓 known
 - Data structures
   - Array: 🖐️ used
-  - mixin: 👂 heard
+  - mixin: 🎓 known
   - extend: 🖐️ used
-  - typed arrays: 👂 heard
-  - Map: 👂 heard
+  - typed arrays: 🎓 known
+  - Map: 🎓 known
   - Set: 🖐️ used
   - undefined: 🖐️ used
   - null: 🖐️ used
-  - Proxy: 👂 heard
-  - weak collections: 👂 heard
+  - Proxy: 🎓 known
+  - weak collections: 🎓 known
   - timers: 🖐️ used
-  - EventEmitter: 🎓 known
+  - EventEmitter: 🖐️ used
   - RegExp: 🖐️ used
   - Date: 🖐️ used
-  - BigInt: 👂 heard
+  - BigInt: 🎓 known
 - Infrastructure
   - V8: 🖐️ used
   - Node.js: 🖐️ used
