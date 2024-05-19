@@ -20,3 +20,5 @@
   - prisma cli: 🖐️ used
   - prisma migrations: 🖐️ used
   - prisma model: 🖐️ used
+  - relations: 🖐️ used
+  - self-relations: 🖐️ used
