@@ -1,127 +1,127 @@
-## Node.js and backend
+## NodeJS
 
 - Internals and concepts
-  - Strong and weak sides of node.js: u
-  - Stateful and stateless servers: k
-  - Nonblocking I/O and blocking code: h
-  - Event loop phases: k
-  - Event loop microtasks and macrotasks: k
-  - Garbage collection: u
-  - Node.js LTS schedule: u
-  - I/O-bound, CPU-bound, memory-bound tasks: h
-  - Interactive applications (close to real-time): u
+  - Strong and weak sides of node.js: 🖐️ used
+  - Stateful and stateless servers: 🎓 known
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🖐️ used
+  - Node.js LTS schedule: 🖐️ used
+  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
+  - Interactive applications (close to real-time): 🖐️ used
 - Modularity, layers and dependencies
-  - CommonJS modules: u
-  - ECMAScript modules: u
-  - Module `node:module`: k
-  - Caching in CJS and ESM: h
-  - Modules as singletons: h
-  - Contexts and scripts module `node:vm`: h
-  - Dependencies: `npm`, `node_modules`: u
-  - Files `package.json`, `package-lock.json`: u
-  - Module-based permissions model: u
-  - Isolation with modularity: u
-  - Dependency injection: u
-  - DI containers: h
-  - Coupling and cohesion: k
-  - Framework agnostic approach: k
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - Module `node:module`: 🎓 known
+  - Caching in CJS and ESM: 👂 heard
+  - Modules as singletons: 👂 heard
+  - Contexts and scripts module `node:vm`: 👂 heard
+  - Dependencies: `npm`, `node_modules`: 🙋 explained
+  - Files `package.json`, `package-lock.json`: 🖐️ used
+  - Module-based permissions model: 🖐️ used
+  - Isolation with modularity: 🖐️ used
+  - Dependency injection: 🖐️ used
+  - DI containers: 🎓 known
+  - Coupling and cohesion: 🎓 known
+  - Framework agnostic approach: 🎓 known
 - Environment
-  - Command line arguments: u
-  - Node.js CLI: u
-  - Process-based permissions: u
-  - Graceful shutdown: h
-  - Clustering: h
-  - Watch filesystem changes with --watch: u
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
+  - Process-based permissions: 🖐️ used
+  - Graceful shutdown: 👂 heard
+  - Clustering: 👂 heard
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
-  - Streams API: h
-  - Web Streams API: h
-  - Crypto API: u
-  - Password hashing with crypto.scrypt: u
-  - Web Crypto API: u
-  - File system API (sync and async): u
-  - Copy folder recursively: h
-  - Worker threads: h
-  - Performance hooks: h
-  - Native fetch and nodejs/undici: u
-  - async_hooks: h
-  - AsyncLocalStorage: h
-  - AsyncResource: h
-  - Deprecated domain API: h
-  - Node.js single executable: h
-  - SharedArrayBuffer: h
-  - Module `node:worker_threads`: h
-  - Module `node:child_process`: h
-  - MessageChannel, MessagePort: h
-  - BroadcastChannel: h
-  - Generating crypto random UUID: u
-  - Module `node:url` vs `new URL`: u
-  - Module `node:assert`: h
-  - Internationalization: h
-  - Blob, File, Buffer, module `node:buffer`: u
-  - Module `node:zlib`: h
+  - Streams API: 👂 heard
+  - Web Streams API: 👂 heard
+  - Crypto API: 🖐️ used
+  - Password hashing with crypto.scrypt: 🖐️ used
+  - Web Crypto API: 🖐️ used
+  - File system API (sync and async): 🖐️ used
+  - Copy folder recursively: 👂 heard
+  - Worker threads: 👂 heard
+  - Performance hooks: 👂 heard
+  - Native fetch and nodejs/undici: 🖐️ used
+  - async_hooks: 👂 heard
+  - AsyncLocalStorage: 👂 heard
+  - AsyncResource: 👂 heard
+  - Deprecated domain API: 👂 heard
+  - Node.js single executable: 👂 heard
+  - SharedArrayBuffer: 👂 heard
+  - Module `node:worker_threads`: 👂 heard
+  - Module `node:child_process`: 👂 heard
+  - MessageChannel, MessagePort: 👂 heard
+  - BroadcastChannel: 👂 heard
+  - Generating crypto random UUID: 🖐️ used
+  - Module `node:url` vs `new URL`: 🖐️ used
+  - Module `node:assert`: 👂 heard
+  - Internationalization: 👂 heard
+  - Blob, File, Buffer, module `node:buffer`: 🖐️ used
+  - Module `node:zlib`: 👂 heard
 - Network
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates: k
+  - SSL certificates: 🎓 known
   - Protocol agnostic approach
-  - Fetch API: u
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S): k
-  - TCP/SSL: k
-  - UDP: k
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
   - TLS
-  - Websocket: u
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST: u
+  - REST: 🖐️ used
   - RPC
-  - Routing: u
-  - DoS: k
-  - DDoS: k
+  - Routing: 🖐️ used
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS: u
-  - SQL injection: u
+  - DNS: 🖐️ used
+  - SQL injection: 🖐️ used
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging: u
-  - Application configuring: u
-  - Testing: u
-  - CI/CD: u
-  - Readable k
-  - Writable k
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Back pressure
-  - Buffer: u
-  - Console: u
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
   - Inspector
 - Data access
-  - Data access layer: u
-  - Repository: u
-  - Active record: h
+  - Data access layer: 🖐️ used
+  - Repository: 🖐️ used
+  - Active record: 👂 heard
   - Query builder
-  - Object-Relational Mapping: u
-  - CRUD: u
-  - DTO: u
+  - Object-Relational Mapping: 🖐️ used
+  - CRUD: 🖐️ used
+  - DTO: 🖐️ used
 - Error handling and debugging
-  - `Error`: u
-  - `error.cause`: u
-  - `error.code`: u
-  - `error.message`: u
-  - `error.stack`: u
-  - `Error.captureStackTrace`: u
+  - `Error`: 🖐️ used
+  - `error.cause`: 🖐️ used
+  - `error.code`: 🖐️ used
+  - `error.message`: 🖐️ used
+  - `error.stack`: 🖐️ used
+  - `Error.captureStackTrace`: 🖐️ used
   - How to avoid mixins
-  - Uncaught exceptions: u
+  - Uncaught exceptions: 🖐️ used
   - Heap dump
-  - Debugging tools: u
+  - Debugging tools: 🖐️ used
   - Flame graph
-  - Memory leaks: h
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
