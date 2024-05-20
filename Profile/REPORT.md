@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-533&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-533&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-533&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square"></a>
+<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,14 +15,14 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `28` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `30` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `33` | `33` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Types | `12` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `14` | `23` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `25` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `8` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Types | `14` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `23` | `23` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `26` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `9` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `21` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `14` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `17` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `9` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `5` | `15` |

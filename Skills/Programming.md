@@ -25,8 +25,8 @@
   - Microcode: 👂 heard
   - Software engineering: 🖐️ used
   - Decomposition: 🖐️ used
-  - Control flow: u
-  - Data flow: u
+  - Control flow: 🖐️ used
+  - Data flow: 🖐️ used
   - Code reuse: 🖐️ used
   - Defensive programming: 👂 heard
   - Don't repeat yourself (DRY): 🖐️ used
@@ -78,8 +78,8 @@
   - Structural typing: 👂 heard
   - Explicit typing: 🖐️ used
   - Type inference: 🖐️ used
-  - Covariance: k
-  - Contravariance: k
+  - Covariance: 🎓 known
+  - Contravariance: 🎓 known
 - Functions
   - Signature: 🖐️ used
   - Argument: 🖐️ used
@@ -87,23 +87,23 @@
   - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
   - Side effects: 🖐️ used
-  - Closure: u
+  - Closure: 🖐️ used
   - Partial application: 🖐️ used
   - Currying: 👂 heard
   - Higher order: 👂 heard
   - Recursion: 🖐️ used
-  - Tail call optimisation: h
+  - Tail call optimisation: 👂 heard
   - Callback: 🖐️ used
   - Listener: 🖐️ used
-  - Composition: k
-  - Pipe: h
-  - Memoize: k
-  - Wrapper: k
-  - Functor: k
-  - Monad: h
-  - Monoid: h
+  - Composition: 🎓 known
+  - Pipe: 👂 heard
+  - Memoize: 🎓 known
+  - Wrapper: 🎓 known
+  - Functor: 🎓 known
+  - Monad: 👂 heard
+  - Monoid: 👂 heard
   - Generator: 👂 heard
-  - Coroutine: h
+  - Coroutine: 👂 heard
 - Data structures
   - Array: 🖐️ used
   - Structure: 🖐️ used
@@ -113,12 +113,12 @@
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
-  - Hash table: u
+  - Hash table: 🖐️ used
   - Linked list: 🖐️ used
   - Doubly list: 🖐️ used
   - Unrolled list: 🎓 known
   - Circular list: 🎓 known
-  - Queue: u
+  - Queue: 🖐️ used
   - Stack: 🎓 known
   - Deque: 🎓 known
   - Tree: 🎓 known
@@ -129,17 +129,17 @@
   - Serialization: 🖐️ used
   - String parsing: 🖐️ used
   - JSON: 🖐️ used
-  - JSON5: h
+  - JSON5: 👂 heard
   - YAML: 🖐️ used
 - Networking
-  - DNS: k
-  - CDN: u
+  - DNS: 🎓 known
+  - CDN: 🖐️ used
   - CORS: 🖐️ used
   - IPv4: 👂 heard
   - IPv6: 👂 heard
   - NAT: 👂 heard
   - URL: 🖐️ used
-  - URN: h
+  - URN: 👂 heard
   - URI: 👂 heard
 - Process and tools
   - Compiler: 👂 heard
@@ -184,14 +184,14 @@
   - Dead code: 🖐️ used
   - Unreachable code: 🖐️ used
   - Duplicate code: 🖐️ used
-  - Premature optimization: h
+  - Premature optimization: 👂 heard
   - Micro-optimization: 🖐️ used
   - Nested loops: 🖐️ used
   - Long method/function/procedure: 🖐️ used
-  - Long inheritance: k
+  - Long inheritance: 🎓 known
   - Large class/file: 🖐️ used
   - Too many parameters: 🖐️ used
-  - Pass-through parameters: u
+  - Pass-through parameters: 🖐️ used
   - Accumulate and fire
   - Use switch/case: 🖐️ used
   - Temporary field
