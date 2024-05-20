@@ -9,14 +9,14 @@
   - GoF patterns: 🖐️ used
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code: h
   - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Platform-agnostic: h
+  - Transport-agnostic: h
+  - Framework-agnostic: h
   - Code coverage: 🖐️ used
-  - Cohesion
-  - Coupling
+  - Cohesion: h
+  - Coupling: h
   - Cyclomatic complexity
   - Reliability: 🖐️ used
   - Quality: 🖐️ used
@@ -25,13 +25,13 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 🖐️ used
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL): h
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach: k
   - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
+  - Separation of concerns (SoC): h
+  - Metaprogramming: h
+  - Inversion of control (IoC): k
   - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🖐️ used
   - Domain-driven design (DDD)
@@ -46,35 +46,35 @@
   - Entity-relationship diagram
   - IDEF1X
   - UML
-  - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
+  - Work breakdown structure: h
+  - Budget estimation: k
+  - Distributed systems: h
+  - High-intensive computing: h
+  - Load balancing: k
+  - Gateways: h
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
+  - SaaS: h
+  - FaaS clouds: h
+  - Serverless: k
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
+  - A software requirements specification (SRS): k
+  - Solution visions: k
+  - Solution capabilities: k
   - System design
   - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
+  - Data modelling: k
+  - Solution components: k
+  - Risk assessment: k
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: h
   - BPMN
   - Low-code
-  - No-code
-  - Metric
+  - No-code: h
+  - Metric: h
   - Metric abuse
   - ACID
   - CAP theorem
@@ -83,12 +83,12 @@
   - Understanding business needs: 🖐️ used
   - Enterprise strategy
   - Integration with subsystems
-  - Enterprise vision
+  - Enterprise vision: k
   - Enterprise capabilities
   - Project scope: 🖐️ used
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture: k
+  - Microservices: h
   - Process choreography
   - Service orchestration
   - Data warehouse
