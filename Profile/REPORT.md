@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-568&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-568&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square"></a>
+<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-568&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -21,11 +21,11 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `23` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `26` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `9` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `21` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `17` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `28` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `25` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `9` | `13` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `5` | `15` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standards | `7` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
