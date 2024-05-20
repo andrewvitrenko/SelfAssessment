@@ -1,4 +1,4 @@
-## Node.js and backend
+1## Node.js and backend
 
 - Internals and concepts
   - Strong and weak sides of node.js: 🖐️ used
@@ -17,12 +17,12 @@
   - Caching in CJS and ESM: 👂 heard
   - Modules as singletons: 👂 heard
   - Contexts and scripts module `node:vm`: 👂 heard
-  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Dependencies: `npm`, `node_modules`: e
   - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model: 🖐️ used
   - Isolation with modularity: 🖐️ used
   - Dependency injection: 🖐️ used
-  - DI containers: 👂 heard
+  - DI containers: k
   - Coupling and cohesion: 🎓 known
   - Framework agnostic approach: 🎓 known
 - Environment
