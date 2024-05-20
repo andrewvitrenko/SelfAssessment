@@ -1,26 +1,26 @@
 ## JavaScript
 
 - Language
-  - `Object`: e
+  - `Object`: 🙋 explained
   - `Function`: 🖐️ used
-  - `Boolean`: e
-  - `Number`: e
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
   - `BigInt`: 🖐️ used
-  - `String`: e
+  - `String`: 🙋 explained
   - `Symbol`: 🖐️ used
   - `Infinity`: 🖐️ used
-  - `NaN`: e
-  - `undefined`: e
-  - `null`: e
-  - `this`: e
-  - `instanceof`: e
-  - `...spread`: e
-  - `...rest`: e
-  - `typeof`: e
-  - Destructuring: e
+  - `NaN`: 🙋 explained
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
+  - `this`: 🙋 explained
+  - `instanceof`: 🙋 explained
+  - `...spread`: 🙋 explained
+  - `...rest`: 🙋 explained
+  - `typeof`: 🙋 explained
+  - Destructuring: 🙋 explained
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
-  - Async generator: u
+  - Async generator: 🖐️ used
   - Async iterator: 🖐️ used
   - Chaining: 🖐️ used
   - Optional chaining: 🖐️ used
@@ -32,14 +32,14 @@
   - Getters and setters: 🖐️ used
   - `__proto__`: 🖐️ used
   - `prototype`: 🖐️ used
-  - Equality operators: e
-  - Logical operators: e
-  - Logical Assignment: e
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 🙋 explained
   - Bitwise operators: 🖐️ used
-  - Ternary operator: e
-  - `void`: e
+  - Ternary operator: 🙋 explained
+  - `void`: 🙋 explained
   - `yield`: 🖐️ used
-  - `await`: e
+  - `await`: 🙋 explained
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
   - Hoisting: 🖐️ used
@@ -59,38 +59,38 @@
   - Private class fields: 🖐️ used
   - Private class methods: 🖐️ used
 - Statements
-  - `if`: e
-  - `while`: e
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
   - `do..while`: 🖐️ used
-  - `for`: e
-  - `for..in`: e
-  - `for..of`: e
+  - `for`: 🙋 explained
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
   - `for await`: 🖐️ used
-  - `throw`: e
-  - `break`: e
-  - `continue`: e
-  - `import`: e
-  - `export`: e
+  - `throw`: 🙋 explained
+  - `break`: 🙋 explained
+  - `continue`: 🙋 explained
+  - `import`: 🙋 explained
+  - `export`: 🙋 explained
   - `label`: 🖐️ used
-  - `try..catch`: e
+  - `try..catch`: 🙋 explained
   - `switch`: 🖐️ used
-  - `class`: e
-  - `extends`: e
+  - `class`: 🙋 explained
+  - `extends`: 🙋 explained
   - `with`: 🎓 known
-  - `new`: e
+  - `new`: 🙋 explained
 - Functions
-  - Arrow function: e
-  - Async function: e
-  - Function declaration: e
-  - Function expression: e
-  - Default parameters: e
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
+  - Function declaration: 🙋 explained
+  - Function expression: 🙋 explained
+  - Default parameters: 🙋 explained
   - Functional object: 🖐️ used
   - `Function.prototype.call`: 🖐️ used
   - `Function.prototype.bind`: 🖐️ used
   - `Function.prototype.apply`: 🖐️ used
-  - `return`: e
+  - `return`: 🙋 explained
 - Data structures
-  - `Array`: e
+  - `Array`: 🙋 explained
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
   - `WeakMap`: 🖐️ used
@@ -100,13 +100,13 @@
   - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`: 🖐️ used
-  - `RegExp`: e
-  - `Date`: e
-  - `Math`: e
+  - `RegExp`: 🙋 explained
+  - `Date`: 🙋 explained
+  - `Math`: 🙋 explained
   - `Reflect`: 🎓 known
-  - `Error`: e
+  - `Error`: 🙋 explained
   - `Atomics`: 👂 heard
-  - `JSON`: e
+  - `JSON`: 🙋 explained
   - `WeakRef`: 👂 heard
   - `FinalizationRegistry`: 👂 heard
   - `Intl`: 👂 heard
@@ -116,7 +116,7 @@
 - Infrastructure
   - V8: 🖐️ used
   - Node.js: 🖐️ used
-  - npm: e
-  - prettier: e
+  - npm: 🙋 explained
+  - prettier: 🙋 explained
   - MDN: 🖐️ used
   - TC39: 👂 heard

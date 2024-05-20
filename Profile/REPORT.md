@@ -68,13 +68,12 @@
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `72` of `72` skills, `0` to be upgraded, and `32` above needed
+Total: you have `72` of `72` skills, `0` to be upgraded, and `61` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Async generator | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `97` of `98` skills, `1` to be upgraded, and `23` above needed
+Total: you have `98` of `98` skills, `0` to be upgraded, and `63` above needed
 
 ## [Async](/Skills/Async.md)
 
