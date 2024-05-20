@@ -2,31 +2,31 @@
 
 - Theory
   - Event loop: 🖐️ used
-  - `try..catch`: e
+  - `try..catch`: 🙋 explained
   - Non-blocking: 🖐️ used
   - Async I/O: 🖐️ used
   - Thread pool: 🎓 known
-  - Pattern Reactor: k
+  - Pattern Reactor: 🎓 known
   - CAS operations: 👂 heard
   - epoll: 👂 heard
   - kqueue: 👂 heard
   - Completion ports: 👂 heard
-  - Event ports: k
-  - libuv: k
-  - Race conditions: u
+  - Event ports: 🎓 known
+  - libuv: 🎓 known
+  - Race conditions: 🖐️ used
   - Dead locks: 🎓 known
   - Live locks: 🎓 known
   - Concurrent programming: 👂 heard
   - Parallel programming: 👂 heard
-  - Actor Model: k
+  - Actor Model: 🎓 known
   - Thread: 🎓 known
   - Process: 🎓 known
 - Async contracts
-  - Callbacks: e
-  - Callback-last-error-first: e
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🙋 explained
   - Thenable: 🖐️ used
-  - Promise: e
-  - Async/await: e
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
   - Future: 🎓 known
   - Deferred: 🎓 known
   - Sync generator: 🖐️ used
@@ -41,10 +41,10 @@
   - Middleware: 🖐️ used
   - Locks: 🎓 known
 - Async adapters and utils
-  - callbackify: u
-  - promisify: u
-  - asyncify: u
-  - Callbacks compose: u
+  - callbackify: 🖐️ used
+  - promisify: 🖐️ used
+  - asyncify: 🖐️ used
+  - Callbacks compose: 🖐️ used
   - Async compose: 🎓 known
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
@@ -62,15 +62,15 @@
   - Timers: 🖐️ used
   - `setImmediate`: 🖐️ used
   - `nextTick`: 🖐️ used
-  - AbortController: u
+  - AbortController: 🖐️ used
   - AbortSignal: 👂 heard
-  - Promise unhandled rejection: u
+  - Promise unhandled rejection: 🖐️ used
   - Promise double resolve: 👂 heard
   - Atomics: 👂 heard
   - High resolution clock: 👂 heard
   - Callback hell: 🖐️ used
   - Promise hell: 🖐️ used
-  - ref() and unref(): u
+  - ref() and unref(): 🖐️ used
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 👂 heard
   - JSON streaming serialization: 👂 heard

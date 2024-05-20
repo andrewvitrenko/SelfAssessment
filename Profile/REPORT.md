@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-533&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-533&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-533&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-533&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-533&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square"></a>
+<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-533&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -82,49 +82,37 @@ Total: you have `98` of `98` skills, `0` to be upgraded, and `63` above needed
 | --- | --- | --- | --- |
 | Signal | 🎓 known | ⟶  | 🖐️ used |
 | Transform | 🎓 known | ⟶  | 🖐️ used |
-| AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 | Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `45` of `50` skills, `5` to be upgraded, and `15` above needed
+Total: you have `46` of `50` skills, `4` to be upgraded, and `25` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 | Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
 
-Total: you have `34` of `37` skills, `3` to be upgraded, and `12` above needed
+Total: you have `35` of `37` skills, `2` to be upgraded, and `19` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Pattern Reactor | 👂 heard | ⟶  | 🎓 known |
-| libuv | 👂 heard | ⟶  | 🎓 known |
-| Race conditions | 🎓 known | ⟶  | 🖐️ used |
 | Dead locks | 🎓 known | ⟶  | 🖐️ used |
 | Live locks | 🎓 known | ⟶  | 🖐️ used |
 | Concurrent programming | 👂 heard | ⟶  | 🎓 known |
 | Parallel programming | 👂 heard | ⟶  | 🎓 known |
-| Actor Model | 👂 heard | ⟶  | 🎓 known |
 | Thread | 🎓 known | ⟶  | 🖐️ used |
 | Process | 🎓 known | ⟶  | 🖐️ used |
 | Signal | 🎓 known | ⟶  | 🖐️ used |
 | Locks | 🎓 known | ⟶  | 🖐️ used |
-| callbackify | 🎓 known | ⟶  | 🖐️ used |
-| promisify | 🎓 known | ⟶  | 🖐️ used |
-| asyncify | 🎓 known | ⟶  | 🖐️ used |
 | Transform | 🎓 known | ⟶  | 🖐️ used |
 | Async Pool | 🎓 known | ⟶  | 🖐️ used |
 | Async Queue | 🎓 known | ⟶  | 🖐️ used |
 | Async Collector | 🎓 known | ⟶  | 🖐️ used |
 | Semaphore | 🎓 known | ⟶  | 🖐️ used |
-| AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🖐️ used |
-| Promise unhandled rejection | 🎓 known | ⟶  | 🖐️ used |
 | Promise double resolve | 👂 heard | ⟶  | 🖐️ used |
 | Atomics | 👂 heard | ⟶  | 🎓 known |
 | High resolution clock | 👂 heard | ⟶  | 🎓 known |
-| ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
 | Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
 | JSON streaming serialization | 👂 heard | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 🎓 known | ⟶  | 🖐️ used |
@@ -133,7 +121,7 @@ Total: you have `34` of `37` skills, `3` to be upgraded, and `12` above needed
 | IPC | 👂 heard | ⟶  | 🎓 known |
 | Channel API | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `41` of `75` skills, `34` to be upgraded, and `7` above needed
+Total: you have `51` of `75` skills, `24` to be upgraded, and `12` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
