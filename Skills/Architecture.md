@@ -1,12 +1,12 @@
 ## Architecture
 
 - Application structure
-  - Modularity: u
-  - Components: u
-  - DirectoriesL u
-  - GRASP: u
-  - SOLID: u
-  - GoF patterns: u
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - DirectoriesL: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
   - CQS
   - Leaking abstractions
   - Multiparadigm code
@@ -14,17 +14,17 @@
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage: u
+  - Code coverage: 🖐️ used
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability: u
-  - Quality: u
-  - Availability: u
-  - Flexibility: u
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer: u
+  - Isolation between layer: 🖐️ used
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
@@ -32,8 +32,8 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI): u
-  - Clean architecture: u
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🖐️ used
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -80,12 +80,12 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs: u
+  - Understanding business needs: 🖐️ used
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope: u
+  - Project scope: 🖐️ used
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance: u
+  - Quality assurance: 🖐️ used
   - Engineering Hygiene
