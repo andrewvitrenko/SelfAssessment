@@ -5,10 +5,10 @@
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt`: u
+  - `BigInt`: 🖐️ used
   - `String`: 🖐️ used
-  - `Symbol`: u
-  - `Infinity`: u
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🖐️ used
   - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
@@ -21,13 +21,13 @@
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
   - Async generator: 🎓 known
-  - Async iterator: u
+  - Async iterator: 🖐️ used
   - Chaining: 🖐️ used
   - Optional chaining: 🖐️ used
   - IIFE: 🖐️ used
-  - Async IIFE: u
+  - Async IIFE: 🖐️ used
   - `global`: 🖐️ used
-  - `globalThis`: u
+  - `globalThis`: 🖐️ used
   - `window`: 🖐️ used
   - Getters and setters: 🖐️ used
   - `__proto__`: 🖐️ used
@@ -42,7 +42,7 @@
   - `await`: 🖐️ used
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
-  - Hoisting: u
+  - Hoisting: 🖐️ used
   - `delete`: 🖐️ used
   - `in`: 🖐️ used
   - `super`: 🖐️ used
@@ -71,7 +71,7 @@
   - `continue`: 🖐️ used
   - `import`: 🖐️ used
   - `export`: 🖐️ used
-  - `label`: u
+  - `label`: 🖐️ used
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
@@ -91,15 +91,15 @@
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`: u
+  - `Map`: 🖐️ used
   - `Set`: 🖐️ used
-  - `WeakMap`: u
-  - `WeakSet`: u
+  - `WeakMap`: 🖐️ used
+  - `WeakSet`: 🖐️ used
   - Typed arrays: 🎓 known
   - Mixins: 🎓 known
   - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
-  - `Proxy`: u
+  - `Proxy`: 🖐️ used
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
@@ -119,4 +119,4 @@
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
-  - TC39: h
+  - TC39: 👂 heard

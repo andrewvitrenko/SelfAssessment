@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-513&nbsp;/&nbsp;613&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-516&nbsp;/&nbsp;613&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-513&nbsp;/&nbsp;613&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-516&nbsp;/&nbsp;613&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-513&nbsp;/&nbsp;613&nbsp;/&nbsp;729-009933?style=flat-square"></a>
+<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-516&nbsp;/&nbsp;613&nbsp;/&nbsp;729-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,12 +27,12 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `9` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `5` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `55` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `14` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `20` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `18` | `18` |
@@ -67,23 +67,14 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| `Map` | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `70` of `72` skills, `2` to be upgraded, and `29` above needed
+Total: you have `72` of `72` skills, `0` to be upgraded, and `32` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `BigInt` | 🎓 known | ⟶  | 🖐️ used |
-| `Symbol` | 🎓 known | ⟶  | 🖐️ used |
-| `Infinity` | 🎓 known | ⟶  | 🖐️ used |
 | Async generator | 🎓 known | ⟶  | 🖐️ used |
-| Async iterator | 🎓 known | ⟶  | 🖐️ used |
-| Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
-| `globalThis` | 🎓 known | ⟶  | 🖐️ used |
-| `Map` | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `90` of `98` skills, `8` to be upgraded, and `20` above needed
+Total: you have `97` of `98` skills, `1` to be upgraded, and `23` above needed
 
 ## [Async](/Skills/Async.md)
 
