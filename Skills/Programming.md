@@ -25,8 +25,8 @@
   - Microcode: 👂 heard
   - Software engineering: 🖐️ used
   - Decomposition: 🖐️ used
-  - Control flow
-  - Data flow
+  - Control flow: u
+  - Data flow: u
   - Code reuse: 🖐️ used
   - Defensive programming: 👂 heard
   - Don't repeat yourself (DRY): 🖐️ used
@@ -78,8 +78,8 @@
   - Structural typing: 👂 heard
   - Explicit typing: 🖐️ used
   - Type inference: 🖐️ used
-  - Covariance
-  - Contravariance
+  - Covariance: k
+  - Contravariance: k
 - Functions
   - Signature: 🖐️ used
   - Argument: 🖐️ used
@@ -87,23 +87,23 @@
   - Pure function: 🖐️ used
   - Lambda expression: 🖐️ used
   - Side effects: 🖐️ used
-  - Closure: 🎓 known
+  - Closure: u
   - Partial application: 🖐️ used
   - Currying: 👂 heard
   - Higher order: 👂 heard
   - Recursion: 🖐️ used
-  - Tail call optimisation
+  - Tail call optimisation: h
   - Callback: 🖐️ used
   - Listener: 🖐️ used
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
+  - Composition: k
+  - Pipe: h
+  - Memoize: k
+  - Wrapper: k
+  - Functor: k
+  - Monad: h
+  - Monoid: h
   - Generator: 👂 heard
-  - Coroutine
+  - Coroutine: h
 - Data structures
   - Array: 🖐️ used
   - Structure: 🖐️ used
@@ -113,12 +113,12 @@
   - Object: 🖐️ used
   - Collection: 🖐️ used
   - Set: 🖐️ used
-  - Hash table: 🎓 known
+  - Hash table: u
   - Linked list: 🖐️ used
   - Doubly list: 🖐️ used
   - Unrolled list: 🎓 known
   - Circular list: 🎓 known
-  - Queue: 🎓 known
+  - Queue: u
   - Stack: 🎓 known
   - Deque: 🎓 known
   - Tree: 🎓 known
@@ -129,17 +129,17 @@
   - Serialization: 🖐️ used
   - String parsing: 🖐️ used
   - JSON: 🖐️ used
-  - JSON5
+  - JSON5: h
   - YAML: 🖐️ used
 - Networking
-  - DNS: 👂 heard
-  - CDN: 🎓 known
+  - DNS: k
+  - CDN: u
   - CORS: 🖐️ used
   - IPv4: 👂 heard
   - IPv6: 👂 heard
   - NAT: 👂 heard
   - URL: 🖐️ used
-  - URN
+  - URN: h
   - URI: 👂 heard
 - Process and tools
   - Compiler: 👂 heard
@@ -184,14 +184,14 @@
   - Dead code: 🖐️ used
   - Unreachable code: 🖐️ used
   - Duplicate code: 🖐️ used
-  - Premature optimization
+  - Premature optimization: h
   - Micro-optimization: 🖐️ used
   - Nested loops: 🖐️ used
   - Long method/function/procedure: 🖐️ used
-  - Long inheritance
+  - Long inheritance: k
   - Large class/file: 🖐️ used
   - Too many parameters: 🖐️ used
-  - Pass-through parameters
+  - Pass-through parameters: u
   - Accumulate and fire
   - Use switch/case: 🖐️ used
   - Temporary field
