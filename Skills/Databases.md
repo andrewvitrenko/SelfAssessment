@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: u
+  - Data types: 🖐️ used
   - Performance tuning
-  - Migrations: u
+  - Migrations: 🖐️ used
   - Schema versioning
   - Backup and recovery
-  - Database scalability: u
-  - Relational databases: u
+  - Database scalability: 🖐️ used
+  - Relational databases: 🖐️ used
   - Key-value store
   - Tuple store
   - Graph databases
-  - Object databases: u
+  - Object databases: 🖐️ used
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -25,9 +25,9 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys: u
-  - Foreign keys: u
-  - Transactions: k
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
+  - Transactions: 🎓 known
   - Views
   - Subqueries
   - Stored procedures
@@ -36,13 +36,13 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`: u
-  - `INSERT`: u
-  - `UPDATE`: u
-  - `DELETE`: u
-  - `LIMIT`: u
-  - `OFFSET`: u
-  - `ORDER BY`: u
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🖐️ used
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
@@ -52,32 +52,32 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`: u
+  - `WHERE`: 🖐️ used
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`: u
-  - `ALTER TABLE`: u
-  - `DROP TABLE`: u
-  - `PRIMARY KEY`: u
-  - `FOREIGN KEY`: u
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
   - `CHECK`
-  - `DEFAULT`: u
+  - `DEFAULT`: 🖐️ used
   - `INDEX`
-  - `UNIQUE`: u
+  - `UNIQUE`: 🖐️ used
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL: u
+  - PostgreSQL: 🖐️ used
   - Oracle
-  - MySQL: u
+  - MySQL: 🖐️ used
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB: u
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
