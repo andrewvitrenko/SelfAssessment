@@ -198,9 +198,9 @@
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments: 🎓 known
   - Data clump
-  - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Feature envy: k
+  - Monkey patch: k
+  - Yo-yo problem: k
 - Runtimes and virtual machines
   - Bytecode: 🎓 known
   - V8: 🎓 known
