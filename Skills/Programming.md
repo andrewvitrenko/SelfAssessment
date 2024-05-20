@@ -143,19 +143,19 @@
   - URI: 👂 heard
 - Process and tools
   - Compiler: 👂 heard
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Just-in-time compilation: h
+  - Ahead-of-time compilation: h
   - Transpiler: 👂 heard
   - Linter: 🖐️ used
   - Polyfill: 🎓 known
   - Interpreter: 🎓 known
-  - Linker
-  - Dynamic linking
-  - Static linking
+  - Linker: k
+  - Dynamic linking: h
+  - Static linking: h
   - Runtime: 🎓 known
   - Virtual machine: 🎓 known
-  - Register-based VM
-  - Stack-based VM
+  - Register-based VM: h
+  - Stack-based VM: h
   - Containerization: 🎓 known
   - Debugger: 🖐️ used
   - Tracing: 🎓 known
@@ -173,11 +173,11 @@
 - Antipatterns
   - Magic numbers: 🖐️ used
   - Hard code: 🖐️ used
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
+  - Soft code: u
+  - Cryptic code: u
+  - Improbability factor: u
+  - Accidental complexity: u
+  - Action at a distance: u
   - Spaghetti: 🖐️ used
   - Silver bullet: 🖐️ used
   - Not invented here: 👂 heard
@@ -192,11 +192,11 @@
   - Large class/file: 🖐️ used
   - Too many parameters: 🖐️ used
   - Pass-through parameters: 🖐️ used
-  - Accumulate and fire
+  - Accumulate and fire: k
   - Use switch/case: 🖐️ used
-  - Temporary field
+  - Temporary field: k
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use fields instead of arguments: k
   - Data clump
   - Feature envy
   - Monkey patch
@@ -232,8 +232,8 @@
   - ECMA: 🎓 known
   - ICANN
   - ISO: 🎓 known
-  - MIME
-  - OWASP
+  - MIME: h
+  - OWASP: h
   - UTF-8: 🖐️ used
   - W3C
   - ODMG
