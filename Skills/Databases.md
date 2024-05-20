@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: u
   - Performance tuning
-  - Migrations
+  - Migrations: u
   - Schema versioning
   - Backup and recovery
-  - Database scalability
-  - Relational databases
+  - Database scalability: u
+  - Relational databases: u
   - Key-value store
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases: u
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -25,9 +25,9 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
+  - Primary keys: u
+  - Foreign keys: u
+  - Transactions: k
   - Views
   - Subqueries
   - Stored procedures
@@ -36,13 +36,13 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
+  - `SELECT`: u
+  - `INSERT`: u
+  - `UPDATE`: u
+  - `DELETE`: u
+  - `LIMIT`: u
+  - `OFFSET`: u
+  - `ORDER BY`: u
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
@@ -52,32 +52,32 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE`: u
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `CREATE TABLE`: u
+  - `ALTER TABLE`: u
+  - `DROP TABLE`: u
+  - `PRIMARY KEY`: u
+  - `FOREIGN KEY`: u
   - `CHECK`
-  - `DEFAULT`
+  - `DEFAULT`: u
   - `INDEX`
-  - `UNIQUE`
+  - `UNIQUE`: u
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL: u
   - Oracle
-  - MySQL
+  - MySQL: u
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB: u
   - Memcached
   - Riak
   - DB2
