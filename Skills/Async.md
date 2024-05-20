@@ -19,7 +19,7 @@
   - Concurrent programming: 👂 heard
   - Parallel programming: 👂 heard
   - Actor Model: 👂 heard
-  - Thread: k
+  - Thread: 🎓 known
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🖐️ used
@@ -30,13 +30,13 @@
   - Future: 🎓 known
   - Deferred: 🎓 known
   - Sync generator: 🖐️ used
-  - Async Generator: u
+  - Async Generator: 🖐️ used
   - Async Iterator: 🖐️ used
   - Event: 🖐️ used
   - Coroutine: 👂 heard
   - Goroutine: 👂 heard
-  - Signal: k
-  - Stream: u
+  - Signal: 🎓 known
+  - Stream: 🖐️ used
   - Chain of responsibility: 🖐️ used
   - Middleware: 🖐️ used
   - Locks: 🎓 known
@@ -49,19 +49,19 @@
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
   - Observable/Observer: 🖐️ used
-  - Readable: u
-  - Writable: u
-  - Transform: k
-  - Async Pool: k
-  - Async Queue: k
-  - Async Collector: k
-  - Semaphore: k
-  - Mutex: k
-  - Spin Lock: k
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 🎓 known
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
+  - Async Collector: 🎓 known
+  - Semaphore: 🎓 known
+  - Mutex: 🎓 known
+  - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - `setImmediate`: u
-  - `nextTick`: u
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
   - AbortController: 🎓 known
   - AbortSignal: 👂 heard
   - Promise unhandled rejection: 🎓 known
@@ -78,11 +78,11 @@
   - AsyncResource: 👂 heard
 - Techniques
   - Async.js library: 🎓 known
-  - RxJS library: u
+  - RxJS library: 🖐️ used
   - Promise.all: 🖐️ used
   - Promise.allSettled: 🖐️ used
-  - Promise.race: u
-  - Promise.any: u
+  - Promise.race: 🖐️ used
+  - Promise.any: 🖐️ used
   - Web Locks API: 👂 heard
   - IPC: 👂 heard
   - Channel API: 👂 heard

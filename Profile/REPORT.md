@@ -80,39 +80,21 @@ Total: you have `98` of `98` skills, `0` to be upgraded, and `63` above needed
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Signal | 👂 heard | ⟶  | 🖐️ used |
-| Stream | 🎓 known | ⟶  | 🖐️ used |
-| Readable | 🎓 known | ⟶  | 🖐️ used |
-| Writable | 🎓 known | ⟶  | 🖐️ used |
-| Transform | 👂 heard | ⟶  | 🖐️ used |
-| Async Pool | 👂 heard | ⟶  | 🎓 known |
-| Async Queue | 👂 heard | ⟶  | 🎓 known |
-| Async Collector | 👂 heard | ⟶  | 🎓 known |
-| `setImmediate` | 🎓 known | ⟶  | 🖐️ used |
-| `nextTick` | 🎓 known | ⟶  | 🖐️ used |
+| Signal | 🎓 known | ⟶  | 🖐️ used |
+| Transform | 🎓 known | ⟶  | 🖐️ used |
 | AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 | Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
-| Promise.race | 🎓 known | ⟶  | 🖐️ used |
-| Promise.any | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `35` of `50` skills, `15` to be upgraded, and `12` above needed
+Total: you have `45` of `50` skills, `5` to be upgraded, and `15` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Signal | 👂 heard | ⟶  | 🎓 known |
-| Transform | 👂 heard | ⟶  | 🎓 known |
-| Async Pool | 👂 heard | ⟶  | 🎓 known |
-| Async Queue | 👂 heard | ⟶  | 🎓 known |
-| Async Collector | 👂 heard | ⟶  | 🎓 known |
-| `setImmediate` | 🎓 known | ⟶  | 🖐️ used |
 | AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🎓 known |
 | Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
-| Promise.race | 🎓 known | ⟶  | 🖐️ used |
-| Promise.any | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `26` of `37` skills, `11` to be upgraded, and `9` above needed
+Total: you have `34` of `37` skills, `3` to be upgraded, and `12` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -124,26 +106,18 @@ Total: you have `26` of `37` skills, `11` to be upgraded, and `9` above needed
 | Concurrent programming | 👂 heard | ⟶  | 🎓 known |
 | Parallel programming | 👂 heard | ⟶  | 🎓 known |
 | Actor Model | 👂 heard | ⟶  | 🎓 known |
-| Thread | 👂 heard | ⟶  | 🖐️ used |
+| Thread | 🎓 known | ⟶  | 🖐️ used |
 | Process | 🎓 known | ⟶  | 🖐️ used |
-| Async Generator | 🎓 known | ⟶  | 🖐️ used |
-| Signal | 👂 heard | ⟶  | 🖐️ used |
-| Stream | 🎓 known | ⟶  | 🖐️ used |
+| Signal | 🎓 known | ⟶  | 🖐️ used |
 | Locks | 🎓 known | ⟶  | 🖐️ used |
 | callbackify | 🎓 known | ⟶  | 🖐️ used |
 | promisify | 🎓 known | ⟶  | 🖐️ used |
 | asyncify | 🎓 known | ⟶  | 🖐️ used |
-| Readable | 🎓 known | ⟶  | 🖐️ used |
-| Writable | 🎓 known | ⟶  | 🖐️ used |
-| Transform | 👂 heard | ⟶  | 🖐️ used |
-| Async Pool | 👂 heard | ⟶  | 🖐️ used |
-| Async Queue | 👂 heard | ⟶  | 🖐️ used |
-| Async Collector | 👂 heard | ⟶  | 🖐️ used |
-| Semaphore | 👂 heard | ⟶  | 🖐️ used |
-| Mutex | 👂 heard | ⟶  | 🎓 known |
-| Spin Lock | 👂 heard | ⟶  | 🎓 known |
-| `setImmediate` | 🎓 known | ⟶  | 🖐️ used |
-| `nextTick` | 🎓 known | ⟶  | 🖐️ used |
+| Transform | 🎓 known | ⟶  | 🖐️ used |
+| Async Pool | 🎓 known | ⟶  | 🖐️ used |
+| Async Queue | 🎓 known | ⟶  | 🖐️ used |
+| Async Collector | 🎓 known | ⟶  | 🖐️ used |
+| Semaphore | 🎓 known | ⟶  | 🖐️ used |
 | AbortController | 🎓 known | ⟶  | 🖐️ used |
 | AbortSignal | 👂 heard | ⟶  | 🖐️ used |
 | Promise unhandled rejection | 🎓 known | ⟶  | 🖐️ used |
@@ -155,13 +129,11 @@ Total: you have `26` of `37` skills, `11` to be upgraded, and `9` above needed
 | JSON streaming serialization | 👂 heard | ⟶  | 🖐️ used |
 | AsyncLocalStorage | 🎓 known | ⟶  | 🖐️ used |
 | AsyncResource | 👂 heard | ⟶  | 🖐️ used |
-| Promise.race | 🎓 known | ⟶  | 🖐️ used |
-| Promise.any | 🎓 known | ⟶  | 🖐️ used |
 | Web Locks API | 👂 heard | ⟶  | 🎓 known |
 | IPC | 👂 heard | ⟶  | 🎓 known |
 | Channel API | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `31` of `75` skills, `44` to be upgraded, and `7` above needed
+Total: you have `41` of `75` skills, `34` to be upgraded, and `7` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
