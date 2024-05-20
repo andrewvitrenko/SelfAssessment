@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-FF3300?style=flat-square"></a>
+<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-551&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
