@@ -9,14 +9,14 @@
   - GoF patterns: 🖐️ used
   - CQS
   - Leaking abstractions
-  - Multiparadigm code: h
+  - Multiparadigm code: 👂 heard
   - Contract programming
-  - Platform-agnostic: h
-  - Transport-agnostic: h
-  - Framework-agnostic: h
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
   - Code coverage: 🖐️ used
-  - Cohesion: h
-  - Coupling: h
+  - Cohesion: 👂 heard
+  - Coupling: 👂 heard
   - Cyclomatic complexity
   - Reliability: 🖐️ used
   - Quality: 🖐️ used
@@ -25,13 +25,13 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 🖐️ used
-  - Domain-specific language (DSL): h
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
-  - Multilayer approach: k
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture
-  - Separation of concerns (SoC): h
-  - Metaprogramming: h
-  - Inversion of control (IoC): k
+  - Separation of concerns (SoC): 👂 heard
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🎓 known
   - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🖐️ used
   - Domain-driven design (DDD)
@@ -46,35 +46,35 @@
   - Entity-relationship diagram
   - IDEF1X
   - UML
-  - Work breakdown structure: h
-  - Budget estimation: k
-  - Distributed systems: h
-  - High-intensive computing: h
-  - Load balancing: k
-  - Gateways: h
+  - Work breakdown structure: 👂 heard
+  - Budget estimation: 🎓 known
+  - Distributed systems: 👂 heard
+  - High-intensive computing: 👂 heard
+  - Load balancing: 🎓 known
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
-  - SaaS: h
-  - FaaS clouds: h
-  - Serverless: k
+  - SaaS: 👂 heard
+  - FaaS clouds: 👂 heard
+  - Serverless: 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS): k
-  - Solution visions: k
-  - Solution capabilities: k
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 🎓 known
+  - Solution capabilities: 🎓 known
   - System design
   - Process modelling
-  - Data modelling: k
-  - Solution components: k
-  - Risk assessment: k
+  - Data modelling: 🎓 known
+  - Solution components: 🎓 known
+  - Risk assessment: 🎓 known
   - Non Functional Requirements (NFR)
-  - Clouds: h
+  - Clouds: 👂 heard
   - BPMN
   - Low-code
-  - No-code: h
-  - Metric: h
+  - No-code: 👂 heard
+  - Metric: 👂 heard
   - Metric abuse
   - ACID
   - CAP theorem
@@ -83,12 +83,12 @@
   - Understanding business needs: 🖐️ used
   - Enterprise strategy
   - Integration with subsystems
-  - Enterprise vision: k
+  - Enterprise vision: 🎓 known
   - Enterprise capabilities
   - Project scope: 🖐️ used
   - Enterprise service bus
-  - Service-oriented architecture: k
-  - Microservices: h
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse

@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-584&nbsp;/&nbsp;695&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-616&nbsp;/&nbsp;713&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-584&nbsp;/&nbsp;695&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-616&nbsp;/&nbsp;713&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-584&nbsp;/&nbsp;695&nbsp;/&nbsp;729-009933?style=flat-square"></a>
+<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-616&nbsp;/&nbsp;713&nbsp;/&nbsp;729-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -57,10 +57,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `23` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `11` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `3` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `0` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `3` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `17` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `17` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `9` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `6` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
