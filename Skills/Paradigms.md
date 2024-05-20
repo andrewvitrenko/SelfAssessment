@@ -47,14 +47,14 @@
   - Instance: 🖐️ used
   - Introspection: 👂 heard
   - Reflection: 👂 heard
-  - The diamond problem: k
+  - The diamond problem: 🎓 known
 - GRASP
-  - Controller: u
-  - Indirection: u
-  - Low coupling: u
-  - High cohesion: u
-  - Protected variations: u
-  - Pure fabrication: k
+  - Controller: 🖐️ used
+  - Indirection: 🖐️ used
+  - Low coupling: 🖐️ used
+  - High cohesion: 🖐️ used
+  - Protected variations: 🖐️ used
+  - Pure fabrication: 🎓 known
 - SOLID
   - Single-responsibility principle (SRP): 🎓 known
   - Open–closed principle (OCP): 🎓 known
@@ -79,11 +79,11 @@
   - Prototype: 🎓 known
   - Composite: 🎓 known
   - Decorator: 🎓 known
-  - Flyweight: u
+  - Flyweight: 🖐️ used
   - Mediator
   - Memento
-  - Template Method: h
-  - Visitor: k
-  - Reactor: h
-  - Active object: h
-  - Delegation: k
+  - Template Method: 👂 heard
+  - Visitor: 🎓 known
+  - Reactor: 👂 heard
+  - Active object: 👂 heard
+  - Delegation: 🎓 known

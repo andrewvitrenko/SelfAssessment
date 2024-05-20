@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-571&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-584&nbsp;/&nbsp;695&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-571&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-584&nbsp;/&nbsp;695&nbsp;/&nbsp;729-009933?style=flat-square)](https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-571&nbsp;/&nbsp;689&nbsp;/&nbsp;729-009933?style=flat-square"></a>
+<a href="https://github.com/andrewvitrenko/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-584&nbsp;/&nbsp;695&nbsp;/&nbsp;729-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -52,10 +52,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `18` | `25` |
-| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `20` | `21` |
-| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `21` | `21` |
+| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `6` | `6` |
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `17` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `23` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `11` | `22` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `3` | `36` |
