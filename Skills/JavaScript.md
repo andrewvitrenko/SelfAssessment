@@ -1,89 +1,122 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - arrow function: 🖐️ used
-  - async function: 🖐️ used
-  - call: 🖐️ used
-  - bind: 🖐️ used
-  - apply: 🖐️ used
-  - instanceof: 🖐️ used
-  - ...spread: 🖐️ used
-  - ...rest: 🖐️ used
-  - typeof: 🖐️ used
-  - destructuring: 🖐️ used
-  - generator: 🖐️ used
-  - iterator: 🖐️ used
-  - async generator: 🎓 known
-  - async iterator: 🎓 known
-  - chaining: 🖐️ used
-  - optional chaining: 🖐️ used
-  - IIFE: 🖐️ used
-  - global: 🖐️ used
-  - globalThis: 🎓 known
-  - window: 🖐️ used
-  - getters and setters: 🖐️ used
-  - __proto__: 🖐️ used
-  - prototype: 🖐️ used
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 🖐️ used
-  - ternary operator: 🖐️ used
-  - void: 🖐️ used
-  - yield: 🖐️ used
-  - await: 🖐️ used
-  - template literal: 🖐️ used
-  - strict mode: 🖐️ used
-  - delete: 🖐️ used
-  - in: 🖐️ used
-  - super: 🖐️ used
-  - Symbol: 🖐️ used
-  - Reflect: 🎓 known
+  - `Object`: u
+  - `Function`: u
+  - `Boolean`: u
+  - `Number`: u
+  - `BigInt`: k
+  - `String`: u
+  - `Symbol`: k
+  - `Infinity`: k
+  - `NaN`: u
+  - `undefined`: u
+  - `null`: u
+  - `this`: u
+  - `instanceof`: u
+  - `...spread`: u
+  - `...rest`: u
+  - `typeof`: u
+  - Destructuring: u
+  - Generators: u
+  - Iterators: u
+  - Async generator: k
+  - Async iterator: k
+  - Chaining: u
+  - Optional chaining: u
+  - IIFE: u
+  - Async IIFE:h
+  - `global`: u
+  - `globalThis`: k
+  - `window`: u
+  - Getters and setters: u
+  - `__proto__`: u
+  - `prototype`: u
+  - Equality operators: u
+  - Logical operators: u
+  - Logical Assignment: u
+  - Bitwise operators: u
+  - Ternary operator: u
+  - `void`: u
+  - `yield`: u
+  - `await`: u
+  - Template literal: u
+  - Strict mode: u
+  - Hoisting:h
+  - `delete`: u
+  - `in`: u
+  - `super`: u
+  - `eval`: u
+  - `static`: u
+  - `Number.parseInt`: u
+  - `Number.parseFloat`: u
+  - Property descriptors: u
+  - Sealing properties: u
+  - Freezing properties: u
+  - Computed properties: u
+  - Instance class fields: u
+  - Static class fields: u
+  - Private class fields: u
+  - Private class methods: u
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
-  - for await: 🖐️ used
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
-  - label: 🎓 known
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
-  - class: 🖐️ used
-  - new Error: 🖐️ used
-  - with: 🎓 known
+  - `if`: u
+  - `while`: u
+  - `do..while`: u
+  - `for`: u
+  - `for..in`: u
+  - `for..of`: u
+  - `for await`: u
+  - `throw`: u
+  - `break`: u
+  - `continue`: u
+  - `import`: u
+  - `export`: u
+  - `label`: k
+  - `try..catch`: u
+  - `switch`: u
+  - `class`: u
+  - `extends`: u
+  - `with`: k
+  - `new`: u
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object: 🎓 known
+  - Arrow function: u
+  - Async function: u
+  - Function declaration: u
+  - Function expression: u
+  - Default parameters: u
+  - Functional object: u
+  - `Function.prototype.call`: u
+  - `Function.prototype.bind`: u
+  - `Function.prototype.apply`: u
+  - `return`: u
 - Data structures
-  - Array: 🖐️ used
-  - mixin: 🎓 known
-  - extend: 🖐️ used
-  - typed arrays: 🎓 known
-  - Map: 🎓 known
-  - Set: 🖐️ used
-  - undefined: 🖐️ used
-  - null: 🖐️ used
-  - Proxy: 🎓 known
-  - weak collections: 🎓 known
-  - timers: 🖐️ used
-  - EventEmitter: 🖐️ used
-  - RegExp: 🖐️ used
-  - Date: 🖐️ used
-  - BigInt: 🎓 known
+  - `Array`: u
+  - `Map`: k
+  - `Set`: u
+  - `WeakMap`: k
+  - `WeakSet`: k
+  - Typed arrays: k
+  - Mixins: k
+  - `Object.assign`: u
+- Standard classes and namespaces
+  - `Proxy`: k
+  - `RegExp`: u
+  - `Date`: u
+  - `Math`: u
+  - `Reflect`: k
+  - `Error`: u
+  - `Atomics`: h
+  - `JSON`: u
+  - `WeakRef`: h
+  - `FinalizationRegistry`: h
+  - `Intl`: h
+  - `Promise`: u
+  - `console`: u
+  - Timers: u
 - Infrastructure
-  - V8: 🖐️ used
-  - Node.js: 🖐️ used
-  - npm: 🖐️ used
-  - prettier: 🖐️ used
-  - MDN: 🖐️ used
+  - V8: u
+  - Node.js: u
+  - npm: u
+  - prettier: u
+  - MDN: u
+  - TC39

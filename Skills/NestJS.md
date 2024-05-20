@@ -1,24 +1,24 @@
 ## Nest.js framework
 
 - Nest.js core
-  - Controller: 🖐️ used
-  - Service: 🖐️ used
-  - Module: 🖐️ used
-  - Pipe: 🖐️ used
-  - Routing: 🖐️ used
-  - Filters: 🖐️ used
-  - Guards: 🖐️ used
-  - Custom decorator: 🖐️ used
-  - Middleware: 🖐️ used
-  - Config: 🖐️ used
+  - Controller: u
+  - Service: u
+  - Module: u
+  - Pipe: u
+  - Routing: u
+  - Filters: u
+  - Guards: u
+  - Custom decorator: u
+  - Middleware: u
+  - Config: u
 - Techniques
-  - Login auth with passport: 🖐️ used
-  - jwt auth with passport: 🖐️ used
-  - refresh token: 🖐️ used
+  - Login auth with passport: u
+  - jwt auth with passport: u
+  - refresh token: u
 - Prisma
-  - prisma client: 🖐️ used
-  - prisma cli: 🖐️ used
-  - prisma migrations: 🖐️ used
-  - prisma model: 🖐️ used
-  - relations: 🖐️ used
-  - self-relations: 🖐️ used
+  - prisma client: u
+  - prisma cli: u
+  - prisma migrations: u
+  - prisma model: u
+  - relations: u
+  - self-relations: u
